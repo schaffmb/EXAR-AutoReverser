@@ -1,1 +1,1 @@
-# EX-AutoReverser
+# EXAR-AutoReverser
