@@ -1,6 +1,6 @@
 //*****************************************************************************
 //*
-//* DCCEX_AutoReverser.cpp
+//* EXAR_AutoReverser.cpp
 //*   Copyright © 2024-2026 Michael Schaff
 //*   All rights reserved.
 //*
