@@ -12,7 +12,7 @@ GNU Lesser General Public License (LGPL), MIT, modified BSD, Apache, etc..
 
 GPL licensing information can found here: https://www.gnu.org/licenses/
 
-For full details on the licensing of the hd44780 library and its components, see the included licensing file.
+For full details on the licensing of the EXAR-AutoReverser library and its components, see the included licensing file.
 
 Overview
 =================
