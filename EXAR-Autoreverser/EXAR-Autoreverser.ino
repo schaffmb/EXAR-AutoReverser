@@ -1,11 +1,11 @@
 //*****************************************************************************
 //*
-//* EXAR_AutoReverser.cpp
+//* EXAR-AutoReverser.cpp
 //*   Copyright © 2024-2026 Michael Schaff
 //*   All rights reserved.
 //*
 //* Brief:
-//*   DCC Isolated Autoreversing Loop Circuit for Model railway.
+//*   DCC isolated autoreversing loop circuit for model railway.
 //*
 //* Notes:
 //*   This is free software: you can redistribute it and/or modify it
