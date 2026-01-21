@@ -16,3 +16,11 @@ For full details on the licensing of EXAR-Autoreverser and its components, see t
 
 Overview
 =================
+
+
+
+CHANGELOG
+----------------------
+
+[0.0.1] - 20, Jan 2026
+ * Initial beta release
